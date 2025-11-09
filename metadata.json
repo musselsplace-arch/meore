@@ -1,0 +1,5 @@
+{
+  "name": "Restaurant Market Order Manager",
+  "description": "An application for chefs from two different restaurants to create market order lists, and for management to process these orders, track purchased or unavailable items, and view order history.",
+  "requestFramePermissions": []
+}

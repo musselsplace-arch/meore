@@ -1,0 +1,21 @@
+{
+  "short_name": "Order Manager",
+  "name": "Restaurant Market Order Manager",
+  "description": "An application for chefs to create market order lists, and for management to process them.",
+  "icons": [
+    {
+      "src": "https://aistudio.google.com/static/meet_2020q4/ico/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://aistudio.google.com/static/meet_2020q4/ico/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#f3f4f6"
+}
